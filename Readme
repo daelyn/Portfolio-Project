@@ -1,0 +1,8 @@
+Data Analysis and Visualization of Covid-19 Data -   
+
+Utilized SQL extensively for data exploration, querying the large Covid-19 dataset, and performing complex joins and aggregations to extract meaningful insights (Data Exploration-SQL.sql).
+Designed and developed a dynamic Tableau dashboard to visualize key metrics, trends, and insights from the extracted data.
+Incorporated interactive filters and customized visualizations to facilitate user-friendly exploration and analysis of the data.
+
+Below is the link to Covid-19 Tableau Dashboard -
+https://public.tableau.com/views/CovidDashboard_16818518561610/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
